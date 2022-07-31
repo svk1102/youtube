@@ -1,23 +1,23 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/XsdmR2c/1.png",
-      title: "SUMMER SALE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      img: "https://i.pinimg.com/originals/66/23/c7/6623c7a1ecffd8971c3baf9dcb148ae3.jpg",
+      title: "",
+      desc: " ",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "https://i.ibb.co/DG69bQ4/2.png",
-      title: "AUTUMN COLLECTION",
+      img: "https://st1.bgr.in/wp-content/uploads/2021/07/OnePlus-Nord-2-Green-Wood-Colour.jpg",
+      title: "Best in Style",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
-      img: "https://i.ibb.co/cXFnLLV/3.png",
-      title: "LOUNGEWEAR LOVE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      img: "https://techaedgar.com/wp-content/uploads/2020/10/OnePlus-Nord-N10-5G.jpg",
+      title: "Cheap in Price",
+      desc: "DON'T COMPROMISE ON PRICE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
     },
   ];
@@ -25,52 +25,60 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "SHIRT STYLE!",
+      img: "https://cdn.wccftech.com/wp-content/uploads/2021/07/iPhone-13-1480x1000.jpg",
+      title: "Apple",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "LOUNGEWEAR LOVE",
+      img: "https://tse3.mm.bing.net/th?id=OIP.qbPbm19_T97AMSqNKu80BQHaHa&pid=Api&P=0",
+      title: "Samsung",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "LIGHT JACKETS",
+      img: "https://st1.bgr.in/wp-content/uploads/2021/07/OnePlus-Nord-2-Green-Wood-Colour.jpg",
+      title: "One Plus",
     },
   ];
 
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://www.chiptrolls.com/Images/20181008075902.jpg",
+      title:"The TRUTH About OnePlus Nord!"
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://www.cometbuster.com/product/gallery/bb7660528367efd3775ae4cc6942924f.jpg",
+      title:"OnePlus Nord 2T Unboxing & First Look Before Launch - A New Mid-Range King🔥🔥🔥"
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://priceinsouthafrica.com/wp-content/uploads/2021/02/Samsung-Galaxy-A52-2048x2048.jpg",
+      title:"Realme Narzo 50 Pro Unboxing & Review | AMOLED Display, Dimensity 920 5G Phone |"
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://www.mytrendyphone.eu/images/iPhone-12-Pro-Max-128GB-Gold-0194252021880-25102020-4-p.jpg",
+      title:"Rp1.999 JUTA!!! Unboxing + tes ML PUBG realme narzo 50A Prime!"
     },
     {
       id:5,
-      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      img:"https://www.cometbuster.com/product/gallery/175cfe811c0749c7447071e93b93c9d6.jpg",
+      title:"Xiaomi pun bakal mikir buat lawan HP ini... - Review flagship realme GT!"
     },
     {
       id:6,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+      img:"https://www.ourshopee.com/ourshopee-img/ourshopee_product_images/9604011355.jpg",
+      title:"realme GT MASTER EDITION - MAHIRAP TALUNIN TO!"
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://i.gadgets360cdn.com/large/samsung_galaxy_f22_image_1626096653995.jpg",
+      title:"OnePlus Nord 2 vs Realme GT Master Edition | Full Comparison | Galti Mat Karna! | GT Hindi"
     },
     {
       id:8,
-      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      img:"https://priceinall.com/wp-content/uploads/2021/02/xiaomi-redmi-note10pro-india-500x583.jpg",
+      title:"All Samsung Galaxy S Series Phones Evolution 2010-2022"
     },
   ]

@@ -31,6 +31,7 @@ const Container = styled.div`
   justify-content: center;
   background-color: #f5fbfd;
   position: relative;
+  flex-direction:column;
 
   &:hover ${Info}{
     opacity: 1;
@@ -82,6 +83,8 @@ const Product = ({ item }) => {
           <FavoriteBorderOutlined />
         </Icon>
       </Info>
+      <p>Title : {item.title}</p>
+
     </Container>
   );
 };
