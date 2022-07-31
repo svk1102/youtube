@@ -82,3 +82,55 @@ export const sliderItems = [
       title:"All Samsung Galaxy S Series Phones Evolution 2010-2022"
     },
   ]
+  export const appleProducts = [
+    {
+      id:1,
+      img:"https://cdn.wccftech.com/wp-content/uploads/2021/07/iPhone-13-1480x1000.jpg",
+      title:"Here’s which iPhone you should buy in 2022"
+    },
+    {
+      id:2,
+      img:"https://www.futureworldindia.in/image/cache/catalog/FWI/IPhone/iphone%2012%20mini/iPhone%2012%20Mini%20Green-1500x1500.jpg",
+      title:"iPhone 12 in 2022 ? The best 😍 iPhone to buy right now? "
+    },
+    {
+      id:3,
+      img:"https://kz.all.biz/img/kz/catalog/2483116.png",
+      title:"What's the Best Cheap iPhone in 2021?"
+    },
+    {
+      id:4,
+      img:"https://www.mytrendyphone.eu/images/iPhone-12-Pro-Max-128GB-Gold-0194252021880-25102020-4-p.jpg",
+      title:"iPhone 14 | Apple Products"
+    },
+    {
+      id:5,
+      img:"https://appletrack.com/wp-content/uploads/2022/04/006Tqwm9gy1h1byk0ms1pj30qo0zjabi.jpg",
+      title:"iPhone XR Unboxing #shorts #unboxing"
+    },
+    {
+      id:6,
+      img:"https://www.apple.com/newsroom/images/product/iphone/standard/Apple_new-iphone-se-white_04152020_big.jpg.large.jpg",
+      title:"iPhone SE (2022) Review: Old Dog. New Trick."
+    },
+    {
+      id:7,
+      img:"https://m.media-amazon.com/images/I/41LRNUTkzgL._AC_SY580_.jpg",
+      title:"Which iPhone Should You Buy?? (2021/2022)"
+    },
+    {
+      id:8,
+      img:"https://www.slashgear.com/img/gallery/a-pink-iphone-13-could-let-apple-shock-your-eyes-and-your-wallet/intro-import.jpg",
+      title:"unboxing the pink iphone 13!!"
+    },
+    {
+      id:9,
+      img:"https://i.ytimg.com/vi/-Cm3TwqyXOg/maxresdefault.jpg",
+      title:"Thinnest iPhone to Date | November 2020"
+    },
+    {
+      id:10,
+      img:"https://i.insider.com/5c101c597e912e1d065f28a7?width=1136&format=jpeg",
+      title:"The Smallest iPhone in the World."
+    },
+  ]

@@ -5,6 +5,7 @@ import Products from "../components/Products";
 import Newsletter from "../components/Newsletter";
 import Footer from "../components/Footer";
 import { mobile } from "../responsive";
+import AppleProducts from "../components/AppleProducts";
 
 const Container = styled.div``;
 
@@ -36,12 +37,12 @@ const Select = styled.select`
 `;
 const Option = styled.option``;
 
-const ProductList = () => {
+const AppleProductList = () => {
   return (
     <Container>
       <Navbar />
       <Announcement />
-      <Title>Smart Phones</Title>
+      <Title>Search Exclusively in Apple Smart Phones !</Title>
       <FilterContainer>
         <Filter>
           <FilterText>Filter Products:</FilterText>
@@ -76,11 +77,11 @@ const ProductList = () => {
           </Select>
         </Filter>
       </FilterContainer>
-      <Products />
+      <AppleProducts/>
       {/* <Newsletter /> */}
       <Footer />
     </Container>
   );
 };
 
-export default ProductList;
+export default AppleProductList;

@@ -88,11 +88,11 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>LAMA.</Logo>
+        <Logo>Glitchy Shop.</Logo>
         <Desc>
-          There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don’t look even slightly believable.
+          This is litreally the best shop you can find in the multiverse. You can bargain and get some really great discounts on 
+          everyday use smartphones. It's litreally raining smartphones in here. So what are you waiting for. Go grab one for yourself and 
+          gift some to your loved ones !
         </Desc>
         <SocialContainer>
           <SocialIcon color="3B5999">
@@ -114,8 +114,8 @@ const Footer = () => {
         <List>
           <ListItem>Home</ListItem>
           <ListItem>Cart</ListItem>
-          <ListItem>Man Fashion</ListItem>
-          <ListItem>Woman Fashion</ListItem>
+          <ListItem>Products</ListItem>
+          <ListItem>Other Websites</ListItem>
           <ListItem>Accessories</ListItem>
           <ListItem>My Account</ListItem>
           <ListItem>Order Tracking</ListItem>

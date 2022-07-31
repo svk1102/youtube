@@ -122,33 +122,43 @@ const Product = () => {
       <Announcement />
       <Wrapper>
         <ImgContainer>
-          <Image src="https://i.ibb.co/S6qMxwr/jean.jpg" />
+          <Image src="https://www.futureworldindia.in/image/cache/catalog/FWI/IPhone/iphone%2012%20mini/iPhone%2012%20Mini%20Green-1500x1500.jpg" />
         </ImgContainer>
         <InfoContainer>
-          <Title>Denim Jumpsuit</Title>
+          <Title>iPhone 12 in 2022 ? The best 😍 iPhone to buy right now? </Title>
           <Desc>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-            venenatis, dolor in finibus malesuada, lectus ipsum porta nunc, at
-            iaculis arcu nisi sed mauris. Nulla fermentum vestibulum ex, eget
-            tristique tortor pretium ut. Curabitur elit justo, consequat id
-            condimentum ac, volutpat ornare.
+            Namaskaar Dosto, is video mein maine aapse baat ki hai iPhone 12 ke baare mein aur share ki hai iPhone 12 ki unboxing aur ek first look. Yaha is iPhone 12 mein hai Bionic 5G Octacore Processor aur yaha 5G bhi available hai aur saath mein hai 6GB/8GB/12GB RAM aur 128GB/256GB Storage. iPhone 12 mein hai 6.43"" ka FHD+ 90Hz Retina Display. iPhone 12 mein ek Triple rear Camera setup hai jaha hai 12MP Primary + 12MP Ultrawide+ 12MP Macro Camera. iPhone 12 mein 12MP ka Selfie camera hai aur saath mein 3500mAh ki battery hai 20W charging ke saath mein. iPhone 12 mein NFC bhi supported hai. Mujhe umeed hai ki aapko iPhone 12 ki yeh video pasand aayegi.  
+          <hr style={{margin:"10px 0px"}}/>
+            Share, Support, Subscribe!!!
+            Subscribe: http://bit.ly/1Wfsvt4
+            Android App: https://technicalguruji.in/app
+            Youtube: http://www.youtube.com/c/TechnicalGuruji 
+            Twitter:  http://www.twitter.com/technicalguruji
+            Facebook: http://www.facebook.com/technicalguruji
+            Facebook Myself: https://goo.gl/zUfbUU
+            Instagram: http://instagram.com/technicalguruji
+            Google Plus: https://plus.google.com/+TechnicalGuruji
+            Website: https://technicalguruji.in/
+            Merchandise: http://shop.technicalguruji.in/
+            <br/>
+            About : Technical Guruji is a YouTube Channel, where you will find technological videos in Hindi, New Video is Posted Everyday :)
           </Desc>
-          <Price>$ 20</Price>
+          <Price>₹1,20,000/-</Price>
           <FilterContainer>
             <Filter>
               <FilterTitle>Color</FilterTitle>
-              <FilterColor color="black" />
+              <FilterColor color="lightgreen" />
               <FilterColor color="darkblue" />
               <FilterColor color="gray" />
             </Filter>
             <Filter>
-              <FilterTitle>Size</FilterTitle>
+              <FilterTitle>RAM</FilterTitle>
               <FilterSize>
-                <FilterSizeOption>XS</FilterSizeOption>
-                <FilterSizeOption>S</FilterSizeOption>
-                <FilterSizeOption>M</FilterSizeOption>
-                <FilterSizeOption>L</FilterSizeOption>
-                <FilterSizeOption>XL</FilterSizeOption>
+                <FilterSizeOption>2GB</FilterSizeOption>
+                <FilterSizeOption>4GB</FilterSizeOption>
+                <FilterSizeOption>6GB</FilterSizeOption>
+                {/* <FilterSizeOption>L</FilterSizeOption> */}
+                {/* <FilterSizeOption>XL</FilterSizeOption> */}
               </FilterSize>
             </Filter>
           </FilterContainer>
@@ -162,7 +172,7 @@ const Product = () => {
           </AddContainer>
         </InfoContainer>
       </Wrapper>
-      <Newsletter />
+      {/* <Newsletter /> */}
       <Footer />
     </Container>
   );
