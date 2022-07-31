@@ -86,7 +86,7 @@ export const sliderItems = [
     {
       id:1,
       img:"https://cdn.wccftech.com/wp-content/uploads/2021/07/iPhone-13-1480x1000.jpg",
-      title:"Here’s which iPhone you should buy in 2022"
+      title:"iPhone 13 Pro"
     },
     {
       id:2,

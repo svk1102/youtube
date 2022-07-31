@@ -122,26 +122,27 @@ const Product = () => {
       <Announcement />
       <Wrapper>
         <ImgContainer>
-          <Image src="https://www.futureworldindia.in/image/cache/catalog/FWI/IPhone/iphone%2012%20mini/iPhone%2012%20Mini%20Green-1500x1500.jpg" />
+          <Image src="https://cdn.wccftech.com/wp-content/uploads/2021/07/iPhone-13-1480x1000.jpg" />
         </ImgContainer>
         <InfoContainer>
-          <Title>iPhone 12 in 2022 ? The best 😍 iPhone to buy right now? </Title>
+          <Title>iPhone 13 Pro </Title>
+          <h2 style={{color:"",backgroundColor:"#d7e3fc",padding:"5px 15px",maxWidth:"fit-content",borderRadius:"20px"}}>Trending Rank : 1</h2>
           <Desc>
-            Namaskaar Dosto, is video mein maine aapse baat ki hai iPhone 12 ke baare mein aur share ki hai iPhone 12 ki unboxing aur ek first look. Yaha is iPhone 12 mein hai Bionic 5G Octacore Processor aur yaha 5G bhi available hai aur saath mein hai 6GB/8GB/12GB RAM aur 128GB/256GB Storage. iPhone 12 mein hai 6.43"" ka FHD+ 90Hz Retina Display. iPhone 12 mein ek Triple rear Camera setup hai jaha hai 12MP Primary + 12MP Ultrawide+ 12MP Macro Camera. iPhone 12 mein 12MP ka Selfie camera hai aur saath mein 3500mAh ki battery hai 20W charging ke saath mein. iPhone 12 mein NFC bhi supported hai. Mujhe umeed hai ki aapko iPhone 12 ki yeh video pasand aayegi.  
+            
           <hr style={{margin:"10px 0px"}}/>
-            Share, Support, Subscribe!!!
-            Subscribe: http://bit.ly/1Wfsvt4
-            Android App: https://technicalguruji.in/app
-            Youtube: http://www.youtube.com/c/TechnicalGuruji 
-            Twitter:  http://www.twitter.com/technicalguruji
-            Facebook: http://www.facebook.com/technicalguruji
-            Facebook Myself: https://goo.gl/zUfbUU
-            Instagram: http://instagram.com/technicalguruji
-            Google Plus: https://plus.google.com/+TechnicalGuruji
-            Website: https://technicalguruji.in/
-            Merchandise: http://shop.technicalguruji.in/
+          ● 6.1-inch (15.5 cm diagonal) Super Retina XDR display<br style={{margin:"5px"}}/>
+          ● Ceramic Shield, tougher than any smartphone glass<br style={{margin:"5px"}}/>
+          ● A14 Bionic chip, the fastest chip ever in a smartphone<br style={{margin:"5px"}}/>
+          ● Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording<br style={{margin:"5px"}}/>
+          ● 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording<br style={{margin:"5px"}}/>
+          ● Industry-leading IP68 water resistance<br style={{margin:"5px"}}/>
+          ● Supports MagSafe accessories for easy attach and faster wireless charging<br/>
+          ● iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more<br/>
+
             <br/>
-            About : Technical Guruji is a YouTube Channel, where you will find technological videos in Hindi, New Video is Posted Everyday :)
+            Related Links : 
+            <br/><a href="https://www.gsmarena.com/apple_iphone_13-pictures-11103.php" style={{color:"blue"}} target="_blank">https://www.gsmarena.com/apple_iphone_13-pictures-11103.php</a>
+            <br/><a href="https://gadgets360.com/iphone-13-pro-price-in-india-104062" style={{color:"blue"}} target="_blank">https://gadgets360.com/iphone-13-pro-price-in-india-104062</a>
           </Desc>
           <Price>₹1,20,000/-</Price>
           <FilterContainer>
@@ -157,6 +158,16 @@ const Product = () => {
                 <FilterSizeOption>2GB</FilterSizeOption>
                 <FilterSizeOption>4GB</FilterSizeOption>
                 <FilterSizeOption>6GB</FilterSizeOption>
+                {/* <FilterSizeOption>L</FilterSizeOption> */}
+                {/* <FilterSizeOption>XL</FilterSizeOption> */}
+              </FilterSize>
+            </Filter><hr style={{margin:"0px 10px"}}/>
+            <Filter>
+              <FilterTitle>Capacity</FilterTitle>
+              <FilterSize>
+                <FilterSizeOption>64GB</FilterSizeOption>
+                <FilterSizeOption>128GB</FilterSizeOption>
+                {/* <FilterSizeOption>6GB</FilterSizeOption> */}
                 {/* <FilterSizeOption>L</FilterSizeOption> */}
                 {/* <FilterSizeOption>XL</FilterSizeOption> */}
               </FilterSize>
